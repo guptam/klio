@@ -27,6 +27,7 @@ FAQs
     custom_proto_def
     dags_in_klio
     migrate_from_fnapi
+    setup_packaging
 
 
 General
